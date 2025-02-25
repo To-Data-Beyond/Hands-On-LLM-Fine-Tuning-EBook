@@ -1,4 +1,4 @@
-# Hands-On-LLM-Fine-Tuning-EBook
+# Hands-On-LLM-Fine-Tuning-Book
 The official repo for Hands-On LLM Fine Tuning Book written by **[Yousesf Hosni](https://www.linkedin.com/in/youssef-hosni-b2960b135/)** and published by **[To Data & Beyond](https://youssefh.substack.com/)**. The book is under the Early Access program. You can access the published parts of the book with the To Data & Beyond Subscription.
 
 ## Full Fine-Tunning ##
