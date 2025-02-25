@@ -1,7 +1,5 @@
 # Hands-On-LLM-Fine-Tuning-EBook
-The official repo for Hands-On LLM Fine Tuning Book (Still in progress: You can follow the book chapters here)
-
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
+The official repo for Hands-On LLM Fine Tuning Book written by [Yousesf Hosni](https://www.linkedin.com/in/youssef-hosni-b2960b135/) and published by [To Data & Beyond](https://youssefh.substack.com/) (The book is under the Early access program. You can access the published parts of the book with To Data & Beyond Subscription.)
 
 ## Full Fine-Tunning ##
 * [Training GPT-2 From Scratch: A Step-by-Step Guide](https://open.substack.com/pub/youssefh/p/training-gpt-2-from-scratch-a-step?r=1sqbmi&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
